@@ -175,4 +175,4 @@ sudo docker compose up --build -d
 
 ## Материалы по ДЗ 2 (MVP)
 - Отчёт по этапу: [reports/dz2_mvp_report.md](https://github.com/osHSEov/vyezdnik_pr/blob/feature/mvp/reports/dz2_mvp_report.md)
-- Код MVP: в текущем PR (ветка `homework/dz2-mvp`)
+- Код MVP: в текущем PR (ветка `feature/mvp`)
