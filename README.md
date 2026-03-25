@@ -172,7 +172,3 @@ sudo docker compose up --build -d
 - мультиязычная поддержка
 - админка для обновления базы знаний
 - облачный деплой
-
-## Материалы по ДЗ 2 (MVP)
-- Отчёт по этапу: [reports/dz2_mvp_report.md](https://github.com/osHSEov/vyezdnik_pr/blob/feature/mvp/reports/dz2_mvp_report.md)
-- Код MVP: в текущем PR (ветка `feature/mvp`)
