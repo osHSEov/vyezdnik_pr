@@ -9,7 +9,7 @@
 > Слипченко Вера  
 > Тихомирова Алина  
 
-[Дизайн документ](./design.md)
+[Дизайн-док](https://github.com/osHSEov/vyezdnik_pr/blob/vyezdnik_pr/design.md)
 
 ## Интерфейс
 
